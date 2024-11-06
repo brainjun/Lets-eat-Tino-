@@ -1,0 +1,29 @@
+학교 주변 맛집 아점저 메뉴 추천
+디자인 예- https://www.gdweb.co.kr/sub/view.asp?displayrow=60&Txt_key=all&Txt_word=&Txt_agnumber=&Txt_fgbn=7&Txt_bcode1=&Txt_gbflag=&Txt_bcode2=&Txt_bcode3=&Txt_bcode4=&Txt_bcode5=&Page=1&str_no=22444
+
+
+목표
+
+1차- 
+    디자인 설계, 웹으로 초기 골격 맞추기
+2차-
+    data 모으기, db 서버 만들기
+3차-
+    reative 앱 만들기
+
+쓰는 에디터-
+    github, vscode, mysql...
+
+기능(추가 가능)-
+    option_1:
+        아침 점심 저녁
+    option_2:
+        49, 48...
+    option_3:
+        별점, 사용자 개인 선호도
+    option_4:
+        운영시간, 라스트 오더
+    
+    위 option을 기반으로 db 서버에 value를 받아 랜덤을 돌려 사용자에 취향에 맞게 출력
+
+
