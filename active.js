@@ -23,7 +23,7 @@ function handleSwipe(event) {
   const swipeDistance = startY - currentY;
 
   if (swipeDistance > 100) {
-    window.location.href = "explanation.html"; // Redirect to new file
+    window.location.href = "explanation.html";
     isSwiping = false;
   }
 }
